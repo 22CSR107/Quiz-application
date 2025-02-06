@@ -9,14 +9,12 @@ The **Quiz App** is an interactive web application that allows users to test the
 - To offer quizzes on various subjects with a user-friendly interface.
 - To analyze user performance and display insights using a pie chart.
 
-## Pages to be Implemented
-1. **Home Page**: Introduction and overview of the Quiz App.
-2. **Login Page**: User authentication for accessing quizzes.
-3. **Signup Page**: New user registration.
-4. **Quiz Selection Page**: Users can choose from different quiz categories.
-5. **Quiz Page**: Displays questions and records user responses.
-6. **Result Page**: Shows quiz performance and score analysis using pie charts.
-7. **Admin Dashboard**: Manage quizzes, questions, and user data.
-
-
+## Planned Pages
+I am going to implement the following pages in the Quiz Application:
+- **Login Page**: To allow users to log in securely.
+- **Signup Page**: For new users to create an account.
+- **Home Page**: Overview of available quizzes and user progress.
+- **Quiz Page**: Where users will answer quiz questions.
+- **Results Page**: Displays scores and performance analytics.
+- **Admin Dashboard**: To manage users and quiz content.
 
