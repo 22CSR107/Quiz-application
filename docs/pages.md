@@ -18,3 +18,7 @@ I am going to implement the following pages in the Quiz Application:
 - **Results Page**: Displays scores and performance analytics.
 - **Admin Dashboard**: To manage users and quiz content.
 
+## Images
+
+
+
